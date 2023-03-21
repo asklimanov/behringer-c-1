@@ -4,7 +4,7 @@
 
 НАСТРОЙКА:
 
-Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a>.
+Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a> и выбрать микрофон на вкладке Capture devices в Configurator. Компьютер перезагрузится.
 
 * Уровень громкости аудиоинтерфейса в системе: 100<br>
 * Ручка регулятора громкости входного сигнала (на карте): 50% (по центру)<br>
