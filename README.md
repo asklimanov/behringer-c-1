@@ -4,7 +4,7 @@
 
 НАСТРОЙКА:
 
-Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a> и выбрать микрофон на вкладке Capture devices в Configurator. Компьютер перезагрузится.
+Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a> и выбрать аудиоинтерфейс на вкладке Capture devices в Configurator. Компьютер перезагрузится.
 
 * Уровень громкости аудиоинтерфейса в системе: 100<br>
 * Ручка регулятора громкости входного сигнала (на карте): 50% (по центру)<br>
@@ -13,7 +13,7 @@
 
 1. Разместить нужные 64-битные DLL плагины в папке "C:\Program Files\VSTPlugins\". Если папки нет, создать. Без подпапок, то есть никаких папок в этой директории быть не должно, только dll файлы.<br>
 2. Закинуть config.txt в папку "C:\Program Files\EqualizerAPO\config\"<br>
-3. Выбрать микрофон в качестве устройства ввода в Configuration Editor (самый первый фильтр)<br>
+3. Выбрать аудиоинтерфейс в качестве устройства ввода в Configuration Editor (самый первый фильтр)<br>
 
 Если пути горят красным (File not found), значит нужных плагинов нет по адресу "C:\Program Files\VSTPlugins\", выбирать плагины вручную в Equalizer APO не нужно, настройки собъются. Лучше положить нужные плагины в эту папку и перезапускать программу пока при запуске Equalizer APO не пропадёт красная надпись. Сравните имя файла в папке VSTPlugins и имя файла, которое написано в config.txt, они должны совпадать.<br>
 
